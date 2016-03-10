@@ -8,9 +8,6 @@ import org.cometd.server.authorizer.GrantAuthorizer;
 import javax.annotation.PostConstruct;
 import javax.inject.Inject;
 
-/**
- * @author Mathieu Carbou (mathieu.carbou@gmail.com)
- */
 @Service
 public final class ChatService {
 
